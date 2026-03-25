@@ -136,7 +136,7 @@
     <value>Ackermann</value>
   </data>
   <data name="gsAcquire" xml:space="preserve">
-    <value>Aquirir</value>
+    <value>Adquirir</value>
   </data>
   <data name="gsAcquireFactor" xml:space="preserve">
     <value>Fator de Aquisição</value>
@@ -154,7 +154,7 @@
     <value>Criar linhas de pulverização avançadas</value>
   </data>
   <data name="gsAgShareDownloader" xml:space="preserve">
-    <value>Baixar campos do AgShare</value>
+    <value>Transferir campos do AgShare</value>
   </data>
   <data name="gsAgree" xml:space="preserve">
     <value>Aceitar</value>
@@ -318,7 +318,7 @@ A ordem em que os tocar será a ordem em que aparecerão no menu, de baixo para 
     <value>Nenhum trilho válido</value>
   </data>
   <data name="gsCountsPerDegree" xml:space="preserve">
-    <value>Contagens por grau</value>
+    <value>Contagem por grau</value>
   </data>
   <data name="gsCoverage" xml:space="preserve">
     <value>Cobertura</value>
@@ -417,7 +417,7 @@ A ordem em que os tocar será a ordem em que aparecerão no menu, de baixo para 
     <value>Obter tudo</value>
   </data>
   <data name="gsDownloading" xml:space="preserve">
-    <value>Baixando</value>
+    <value>Transferindo</value>
   </data>
   <data name="gsDriveIn" xml:space="preserve">
     <value>Conduza</value>
@@ -456,7 +456,7 @@ A ordem em que os tocar será a ordem em que aparecerão no menu, de baixo para 
     <value>Ativar</value>
   </data>
   <data name="gsEncoderCounts" xml:space="preserve">
-    <value>Conta</value>
+    <value>Contagem impulsos</value>
   </data>
   <data name="gsEnterCoordinatesForSimulator" xml:space="preserve">
     <value>Insira as coordenadas para o simulador</value>
